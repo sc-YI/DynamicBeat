@@ -1,4 +1,4 @@
-package dynamic_bear_1;
+package dynamic_beat_1;
 
 import javax.swing.JFrame;
 
